@@ -1,4 +1,4 @@
-# Ceng206_Project_DepartmentCourseScheduleProgram
+# Ceng206 Project Department Course Schedule Program
 Programming Languages Course Project as a team
 
 Automatic Course Planner for a Curriculum Semester of a Department
